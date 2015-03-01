@@ -1,4 +1,4 @@
-###### Scalar built-in types
+### Scalar built-in types
 ```
 int - arbitrary precision integer
 float - 64-bit floating point numbers
@@ -8,7 +8,7 @@ None - the null object
 bool - boolean logical values
 ```
 - - -
-###### Relational Operators
+### Relational Operators
 ```
 ==  value equality / equivalence
 !=  value inequality / inequivalence
@@ -18,13 +18,13 @@ bool - boolean logical values
 >=  greater-than or equal to
 ```
 - - -
-###### Conditional Statements
+### Conditional Statements
 ```
 if expr:
     print("expr is True")
 else:
     print("expr is False")
-````
-*expr is convert to bool as if by 
+```
+*expr is convert to bool as if by
 the bool() constructor*
 - - -
