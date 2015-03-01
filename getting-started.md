@@ -1,4 +1,4 @@
-# Scalar built-in types
+###### Scalar built-in types
 ```
 int - arbitrary precision integer
 float - 64-bit floating point numbers
@@ -8,7 +8,7 @@ None - the null object
 bool - boolean logical values
 ```
 
-# Relational Operators
+###### Relational Operators
 ```
 ==  value equality / equivalence
 !=  value inequality / inequivalence
