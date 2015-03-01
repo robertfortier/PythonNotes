@@ -1,4 +1,4 @@
-Scalar built-in types
+# Scalar built-in types
 int - arbitrary precision integer
 float - 64-bit floating point numbers
     53 bits of binary precision
