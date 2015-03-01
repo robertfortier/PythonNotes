@@ -17,3 +17,8 @@ bool - boolean logical values
 <=  less-than or equal to
 >=  greater-than or equal to
 ```
+
+###### Conditional Statements
+expr is convert to bool as if by 
+ the bool() constructor
+ 
