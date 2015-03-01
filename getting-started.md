@@ -7,7 +7,7 @@ float - 64-bit floating point numbers
 None - the null object
 bool - boolean logical values
 ```
-
+- - -
 ###### Relational Operators
 ```
 ==  value equality / equivalence
@@ -17,7 +17,7 @@ bool - boolean logical values
 <=  less-than or equal to
 >=  greater-than or equal to
 ```
-
+- - -
 ###### Conditional Statements
 ```
 if expr:
@@ -27,4 +27,4 @@ else:
 ````
 *expr is convert to bool as if by 
 the bool() constructor*
-
+- - -
