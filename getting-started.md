@@ -9,10 +9,11 @@ bool - boolean logical values
 ```
 
 # Relational Operators
+```
 ==  value equality / equivalence
 !=  value inequality / inequivalence
 <   less-than
 >   greater-than
 <=  less-than or equal to
 >=  greater-than or equal to
-
+```
