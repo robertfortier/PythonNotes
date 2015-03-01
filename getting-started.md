@@ -24,6 +24,7 @@ if expr:
     print("expr is True")
 else:
     print("expr is False")
+````
 *expr is convert to bool as if by 
 the bool() constructor*
-``` 
+
