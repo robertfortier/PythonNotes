@@ -1,7 +1,7 @@
 """A module for demonstrating exceptions."""
 
 
-def convert(s):
+def convert_int(s):
     """Convert to an integer."""
     try:
         x = int(s)
@@ -13,7 +13,9 @@ def convert(s):
 
 
 def main():
-    convert("1234")
+    convert_int("1234")
+    convert_int("not a number")
+    convert_int("4321")
 
 
 if __name__ == "__main__":
